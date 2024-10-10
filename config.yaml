@@ -3,13 +3,15 @@ subject: 'astro-ph'
 
 # 検索キーワード
 keywords:
-        envelope: 3
+        envelope: 2
         infall: 2
         model: 1
         protoplanetary discs: 3
         protostar: 2
         protostars: 2
         ALMA : 2
+        Class 0: 2
+        
         
 
 # 通知の閾値
