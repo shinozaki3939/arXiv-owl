@@ -6,10 +6,12 @@ keywords:
         envelope: 2
         infall: 2
         model: 1
+        star formation: 3
+        starformation: 3
         protoplanetary discs: 3
-        protostar: 2
-        protostars: 2
-        ALMA : 2
+        protostar: 3
+        protostars: 3
+        ALMA : 3
         Class 0: 2
         
         
